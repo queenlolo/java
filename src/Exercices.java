@@ -32,7 +32,6 @@ public class Exercices {
         float hauteur = scanner.nextFloat();
         float somme = longueur * largeur * hauteur;
         System.out.println("Le volume est " + somme);
-        System.out.println("test");
 
     }
 }
